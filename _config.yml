@@ -6,7 +6,7 @@ description: "A blog and a portfolio"
 author: "Victor Liang Zheng"
 title: "Blog"
 permalink: pretty
-baseurl: /jekyll-theme-blogfolio
+baseurl: /Blogs
 
 # social
 github:
