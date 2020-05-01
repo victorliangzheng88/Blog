@@ -1,16 +1,16 @@
 # Site settings
-name: name
-email: email
-url: url
+name: Victor Liang Zheng
+email: victorliangzheng88@gmail.com
+url: https://victorliangzheng88.github.io/jekyll-theme-blogfolio/
 description: "A blog and a portfolio"
-author: "author"
+author: "Victor Liang Zheng"
 title: "Blog"
 permalink: pretty
 baseurl: /jekyll-theme-blogfolio
 
 # social
 github:
-  username: username
+  username: victorliangzheng88
 
 twitter:
-  username: username
+  username: VictorLiangZ1
