@@ -1,12 +1,12 @@
 {
     "items": [{
-        "name": "Project One",
+        "name": "My Blog",
         "link": "",
-        "image": "http://via.placeholder.com/480x320",
+        "image": "https://www.edx.org/sites/default/files/foundationscomputerscience_378x212_0.jpg",
         "date_added": "2017-06-09",
-        "description": "This is a description<br><small><em>attribute - attribute link</em></small>",
+        "description": "This is My Blog about My Experience in Computer Science",
         "technologies": [
-            "Java", "Spring Framework", "Postgres", "JavaScript", "AngularJS"
+            "Java", "HTML"
         ]
     }]
 }
