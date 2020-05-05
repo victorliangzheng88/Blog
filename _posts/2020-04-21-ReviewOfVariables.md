@@ -15,6 +15,7 @@ The method header consists of an access control character (public, private, etc.
 Overloading: A mechanism between methods with the same method name and different parameter lists in the same class. The different parameter lists can be in different types, different Numbers, different orders, as long as any one of them can be satisfied.
 Example: 
 
+```sh
 public class AreaCal {
  
 	/* Calculate Area of Rectangle */
@@ -32,12 +33,14 @@ public class AreaCal {
 		return 3.14 * radius * radius;
 	}
 }
+```
 
 As the example shows, the same method name area synchronously passes in different parameters to achieve different functions. This is called method overloading.
 
 Overriding: Overrides exist in inheritance, a mechanism by which a subclass overrides a superclass method with the same method name and the same arguments in two classes. When a subclass inherits the parent class, we want to extend to the superclass method function, in this case, you can use the overriding. When you need to extend new functions, you don't need a new method, you can just override it to achieve your goal.
 Example:
 
+```sh
 public class B extends A {
 	
 	public String a(String name) {
@@ -49,3 +52,4 @@ class A {
 		return "Welcome: "+name;
 	}
 }
+```
