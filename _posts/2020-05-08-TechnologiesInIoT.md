@@ -1,0 +1,15 @@
+---
+layout: post
+title: "The Techonology Involved in the Internet of Things"
+date: 2020-04-13 12:00:00 -0500
+---
+
+(1) Radio-frequency identification (RFID) technology: When we talk about the Internet of things, we have to mention Radio Frequency Identification (RFID), which is getting a lot of attention in the development of the Internet of things. RFID is a simple wireless system that consists of an interrogator (or reader) and a number of transponders (or tags). The tag consists of a coupling element and a chip. Each tag has an electronic code with a unique extension entry, which is attached to the object to identify the target object. It transmits the rf information through the antenna to the reader, which is the device to read the information. RFID technology allows items to "speak". This gives the Internet of things a feature called traceability. This means that people can keep track of the exact location of objects and their surroundings at any time.
+
+(2) Sensor network: MEMS is the abbreviation of Micro - Electro - Mechanical Systems. It is an integrated microdevice system composed of microsensor, microactuator, signal processing and control circuit, communication interface, and power supply. Its goal is to integrate the acquisition, processing, and execution of information together to form a multifunctional micro-system integrated into a large-scale system, thus greatly improving the level of automation, intelligence, and reliability of the system. It's a more versatile sensor. Because of MEMS, ordinary objects are given new life, they have their own data transmission channels, storage functions, operating systems, and specialized applications, thus forming a huge sensor network. This enables the Internet of things to monitor and protect people through objects.
+
+(3) M2M system framework: M2M, short for machine-to-machine/man, is a networked application and service centered on intelligent interaction between Machine terminals. It will enable the object to achieve smart control. M2M technology involves five important technical parts: machine, M2M hardware, communication network, middleware, and application. Based on the cloud computing platform and smart network, it can make decisions based on the data acquired by the sensor network, and control and feedback on the behavior of changing objects.
+
+(4) Cloud computing: Cloud computing aims to integrate a number of relatively low-cost computing entities into a perfect system with powerful computing power through the network, with the help of advanced business models to enable end-users to access these powerful computing services.
+
+(5) Big data: In the next decade, there will be an estimated 25 billion internet-connected devices, more than the number of personal computers, mobile phones, tablet computers, and so on combined. That's a huge number of connections. The Internet of Things is a vast network of "things". The relationship is between people, between people and things, between things. Therefore, one of the biggest factors affecting the Internet of Things is data, the volume of data, the management of data, and the use of data.

@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Game Design"
+date: 2020-04-16 12:00:00 -0500
+---
+
+When I discuss gaming, many friends are familiar with it, whether about a mobile game, or large online games. Many of the games have accompanied us for a lot of time, in which it can basically being that games are an essential part of modern life because games can effectively relieve physical and mental fatigue when we enjoy it. Being a gamer for such a long time, I sometimes wonder if I can become a game designer since I love gaming so much, why don’t I create a game myself. It is completely different about playing games and to produce a game. Playing a game is more like a hobby and to actually make a game, that would be a career. The game production industry is a very promising industry now with a high salary. However, many universities rarely offer courses on making such games. Even if they do, many of the teachers are basically talks about the concept. I’ve looked into the very basis of the process of making a game and that there is nothing mysterious about the process. According to different platforms, it can be divided into online games and console games. Its development process can be roughly divided into the original creative stage, project research and development stage, game production stage, game testing stage, and game operation stage. There are also many differences between online games and console games. The online games pay more attention to the user interface (UI) interaction, the diversity of its style and the enrichment of its content. Differently, console games pay more attention to the expressiveness of the image it provides, the advancement in technology, and details in UI.
+
