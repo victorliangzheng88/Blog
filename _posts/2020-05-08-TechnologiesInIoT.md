@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Techonology Involved in the Internet of Things"
-date: 2020-04-13 12:00:00 -0500
+date: 2020-05-08 12:00:00 -0500
 ---
 
 (1) Radio-frequency identification (RFID) technology: When we talk about the Internet of things, we have to mention Radio Frequency Identification (RFID), which is getting a lot of attention in the development of the Internet of things. RFID is a simple wireless system that consists of an interrogator (or reader) and a number of transponders (or tags). The tag consists of a coupling element and a chip. Each tag has an electronic code with a unique extension entry, which is attached to the object to identify the target object. It transmits the rf information through the antenna to the reader, which is the device to read the information. RFID technology allows items to "speak". This gives the Internet of things a feature called traceability. This means that people can keep track of the exact location of objects and their surroundings at any time.
