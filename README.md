@@ -1,4 +1,4 @@
-# Summary
+# Summary - Victor Liang Zheng
 
 I found this assignment pretty helpful as it can serve the purpose for me to review the things that I’ve learn in the past. It also allows me to share my personal experience with others as a Computer Science major student. The overall objective of my blog was to share some of my experience in coding in Java and at the same time, for me to review on some of the features of Java. I also shared many things that I think is interesting to know about. Those reviews can also be seen as a kind of small lecture on the topics given. Such as the reviews on String, types of variables, etc. I believe that I was able to maintain this through all of my blogs and hoping that my blog are interesting.
 
